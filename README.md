@@ -1,4 +1,4 @@
-# Project 364 - Python Loops and Insurance Costs
+# Project 364 - Insurance Costs using Python loops.
 
 A beginner Python project focused on practicing loops, list comprehensions, CSV file handling, and project organization.
 
